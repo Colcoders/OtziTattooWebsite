@@ -6,3 +6,42 @@
   margin: 0 15px;
 }
 
+.bienvenida {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.typewritter {
+  text-align: center;
+}
+
+.seccion1 {
+  height: 600px;
+}
+
+.seccion1_info {
+  width: 67%;
+}
+
+.seccion1_bio {
+  width: 33%;
+}
+
+.textoBio {
+  background-color: red;
+}
+
+.fotitoBio {
+  background-color: yellowgreen;
+  width: 200px;
+  height: 200px;
+  margin: 10px auto;
+  border-radius: 50%;
+}
+.seccion2_info {
+  width: 33%;
+}
+
+
